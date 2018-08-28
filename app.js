@@ -3,7 +3,7 @@
 var usr = [];
 var din_arr = [];
 
-const channel = "Gufeean";
+const channel = "";
 
 var options = {
 	options: {
