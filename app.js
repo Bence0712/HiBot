@@ -1,8 +1,4 @@
-﻿<<<< HEAD
-﻿var tmi = require('tmi.js');
-
-//const myInsert = require(',/db_connection');
-//let val = myInsert.inserter();
+﻿﻿var tmi = require('tmi.js');
 
 var usr = [];
 var din_arr = [];
