@@ -18,8 +18,8 @@ var options = {
 		reconnect: true
 	},
 	identity: {
-		username: ,
-		password: 
+		username: "ben_max",
+		password: "oauth:mz2qw8n3gblumg3uyv4xbf7thpead2"
 	},
 	channels: [channel]
 };
